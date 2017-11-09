@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.ciconi.labassignment4.Patient.Patient(patientId,firstname,lastname,department,doctorId,room)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

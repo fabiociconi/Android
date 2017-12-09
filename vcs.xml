@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/fabiociconi/Android_1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fabiociconi/AndroidClasses.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ZeusAC\Desktop\MOBILE" />
